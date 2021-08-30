@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:iron_nugget"
+        },
+        {
+            "tag": "minecraft:planks"
+        }
+    ],
+    "result": {
+        "item": "allthediscs:disc_container",
+        "count": 1
+    },
+    "group": "disc_crates"
+}

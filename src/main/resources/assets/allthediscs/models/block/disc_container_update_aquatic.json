@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "allthediscs:block/disc_crate_top",
+    "north": "allthediscs:block/disc_crate_side_1_aquatic",
+    "south": "allthediscs:block/disc_crate_side_1_aquatic",
+    "east": "allthediscs:block/disc_crate_side_1_aquatic",
+    "west": "allthediscs:block/disc_crate_side_1_aquatic",
+    "up": "allthediscs:block/disc_crate_top",
+    "down": "allthediscs:block/disc_crate_top"
+  }
+}

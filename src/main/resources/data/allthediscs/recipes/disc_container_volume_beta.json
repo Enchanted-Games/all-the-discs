@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:iron_nugget"
+        },
+        {
+            "tag": "minecraft:planks"
+        },
+        {
+            "item": "minecraft:orange_dye"
+        }
+    ],
+    "result": {
+        "item": "allthediscs:disc_container_volume_beta",
+        "count": 1
+    },
+    "group": "disc_crates"
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "allthediscs:item/music_disc",
+        "layer2": "allthediscs:item/volume_alpha",
+        "layer1": "allthediscs:item/music_disc_droopy_likes_your_face"
+    }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "allthediscs",
+  "version": "1.0.0",
+
+  "name": "All The Discs",
+  "description": "All The Discs is a mod that adds most music from C418 in the form of music discs.\nAll credits for music goes to C418 https://c418.bandcamp.com",
+  "authors": [
+    "Enchanted Games"
+  ],
+  "contact": {
+    "homepage": "https://allthediscs.enchanted.games/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/allthediscs/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.allthediscs.AllTheDiscs"
+    ]
+  },
+  "mixins": [
+    
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

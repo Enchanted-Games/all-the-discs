@@ -1,0 +1,130 @@
+{
+	"type": "minecraft:chest",
+	"pools": [
+            {
+            "rolls": 1,
+            "entries": [
+				{
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_ki"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_alpha"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_dead_voxel"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_blind_spots"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_flake"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_moog_city_2"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_concrete_halls"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_biome_fest"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_mutation"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_haunt_muskie"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_warmth"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_floating_trees"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_aria_math"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_kyoto"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_ballad_of_the_cats"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_taswell"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_beginning_2"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_dreiton"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_the_end"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_chirp"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_wait"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_mellohi"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_strad"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_stal"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_eleven"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_ward"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_mall"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_blocks"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_far"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_intro"
+				}
+            ]
+        }
+    ]
+}

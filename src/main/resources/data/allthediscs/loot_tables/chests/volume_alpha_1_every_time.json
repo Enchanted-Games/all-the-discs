@@ -1,0 +1,106 @@
+{
+	"type": "minecraft:chest",
+	"pools": [
+            {
+            "rolls": 1,
+            "entries": [
+				{
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_key"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_door"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_subwoofer_lullaby"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_death"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_living_mice"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_moog_city"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_haggstrom"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_minecraft"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_oxygene"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_equinoxe"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_mice_on_venus"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_dry_hands"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_wet_hands"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_clark"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_chris"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_thirteen"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_excuse"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_sweden"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_cat"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_dog"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_danny"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_beginning"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_droopy_likes_ricochet"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_droopy_likes_your_face"
+				}
+            ]
+        }
+    ]
+}

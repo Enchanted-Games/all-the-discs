@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:chest",
+	"pools": [
+            {
+            "rolls": 1,
+            "entries": [
+				{
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_axolotl"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_shunji"
+				},
+                {
+					"type": "minecraft:item",
+					"name": "allthediscs:music_disc_dragonfish"
+				}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{   
+    "music_disc.volume_beta.ki": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/ki"
+        ]
+    },
+    "music_disc.volume_beta.alpha": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/alpha"
+        ]
+    },
+    "music_disc.volume_beta.dead_voxel": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/dead_voxel"
+        ]
+    },
+    "music_disc.volume_beta.blind_spots": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/blind_spots"
+        ]
+    },
+    "music_disc.volume_beta.flake": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/flake"
+        ]
+    },
+    "music_disc.volume_beta.moog_city_2": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/moog_city_2"
+        ]
+    },
+    "music_disc.volume_beta.concrete_halls": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/concrete_halls"
+        ]
+    },
+    "music_disc.volume_beta.biome_fest": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/biome_fest"
+        ]
+    },
+    "music_disc.volume_beta.mutation": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/mutation"
+        ]
+    },
+    "music_disc.volume_beta.haunt_muskie": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/haunt_muskie"
+        ]
+    },
+    "music_disc.volume_beta.warmth": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/warmth"
+        ]
+    },
+    "music_disc.volume_beta.floating_trees": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/floating_trees"
+        ]
+    },
+    "music_disc.volume_beta.aria_math": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/aria_math"
+        ]
+    },
+    "music_disc.volume_beta.kyoto": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/kyoto"
+        ]
+    },
+    "music_disc.volume_beta.ballad_of_the_cats": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/balled_of_the_cats"
+        ]
+    },
+    "music_disc.volume_beta.taswell": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/taswell"
+        ]
+    },
+    "music_disc.volume_beta.beginning_2": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/beginning_2"
+        ]
+    },
+    "music_disc.volume_beta.dreiton": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/dreiton"
+        ]
+    },
+    "music_disc.volume_beta.the_end": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/the_end"
+        ]
+    },
+    "music_disc.volume_beta.chirp": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/chirp"
+        ]
+    },
+    "music_disc.volume_beta.wait": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/wait"
+        ]
+    },
+    "music_disc.volume_beta.mellohi": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/mellohi"
+        ]
+    },
+    "music_disc.volume_beta.stal": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/stal"
+        ]
+    },
+    "music_disc.volume_beta.strad": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/strad"
+        ]
+    },
+    "music_disc.volume_beta.eleven": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/eleven"
+        ]
+    },
+    "music_disc.volume_beta.ward": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/ward"
+        ]
+    },
+    "music_disc.volume_beta.mall": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/mall"
+        ]
+    },
+    "music_disc.volume_beta.blocks": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/blocks"
+        ]
+    },
+    "music_disc.volume_beta.far": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/far"
+        ]
+    },
+    "music_disc.volume_beta.intro": {
+        "sounds": [
+            "allthediscs:records/c418/vol_beta/intro"
+        ]
+    },
+
+    
+    "music_disc.uqdate_aquatic.axolotl": {
+        "sounds": [
+            "allthediscs:records/c418/update_aquatic/axolotl"
+        ]
+    },
+    "music_disc.uqdate_aquatic.dragonfish": {
+        "sounds": [
+            "allthediscs:records/c418/update_aquatic/dragonfish"
+        ]
+    },
+    "music_disc.uqdate_aquatic.shunji": {
+        "sounds": [
+            "allthediscs:records/c418/update_aquatic/shunji"
+        ]
+    },
+
+
+    "music_disc.volume_alpha.droopy_likes_your_face": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/droopy_likes_your_face"
+        ]
+    },
+    "music_disc.volume_alpha.droopy_likes_ricochet": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/droopy_likes_ricochet"
+        ]
+    },
+    "music_disc.volume_alpha.beginning": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/beginning"
+        ]
+    },
+    "music_disc.volume_alpha.danny": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/danny"
+        ]
+    },
+    "music_disc.volume_alpha.dog": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/dog"
+        ]
+    },
+    "music_disc.volume_alpha.cat": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/cat"
+        ]
+    },
+    "music_disc.volume_alpha.sweden": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/sweden"
+        ]
+    },
+    "music_disc.volume_alpha.excuse": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/excuse"
+        ]
+    },
+    "music_disc.volume_alpha.thirteen": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/thirteen"
+        ]
+    },
+    "music_disc.volume_alpha.chris": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/chris"
+        ]
+    },
+    "music_disc.volume_alpha.clark": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/clark"
+        ]
+    },
+    "music_disc.volume_alpha.wet_hands": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/wet_hands"
+        ]
+    },
+    "music_disc.volume_alpha.dry_hands": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/dry_hands"
+        ]
+    },
+    "music_disc.volume_alpha.mice_on_venus": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/mice_on_venus"
+        ]
+    },
+    "music_disc.volume_alpha.equinoxe": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/equinoxe"
+        ]
+    },
+    "music_disc.volume_alpha.oxygene": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/oxygene"
+        ]
+    },
+    "music_disc.volume_alpha.minecraft": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/haggstrom"
+        ]
+    },
+    "music_disc.volume_alpha.haggstrom": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/haggstrom"
+        ]
+    },
+    "music_disc.volume_alpha.moog_city": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/moog_city"
+        ]
+    },
+    "music_disc.volume_alpha.living_mice": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/living_mice"
+        ]
+    },
+    "music_disc.volume_alpha.death": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/death"
+        ]
+    },
+    "music_disc.volume_alpha.subwoofer_lullaby": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/subwoofer_lullaby"
+        ]
+    },
+    "music_disc.volume_alpha.key": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/key"
+        ]
+    },
+    "music_disc.volume_alpha.door": {
+        "sounds": [
+            "allthediscs:records/c418/vol_alpha/door"
+        ]
+    },
+
+
+    "music_disc.extras.taswell_pitched": {
+        "sounds": [
+            "allthediscs:records/extras/taswell_pitched"
+        ]
+    },
+    "music_disc.extras.ward_pitched": {
+        "sounds": [
+            "allthediscs:records/extras/ward_pitched"
+        ]
+    },
+    "music_disc.extras.mall_pitched": {
+        "sounds": [
+            "allthediscs:records/extras/mall_pitched"
+        ]
+    },
+
+    
+    "music_disc.volume_null.secret_disc": {
+        "sounds": [
+            "allthediscs:records/c418/vol_null/secret_disc"
+        ]
+    }
+}
+

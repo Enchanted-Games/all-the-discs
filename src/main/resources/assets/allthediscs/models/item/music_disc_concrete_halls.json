@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "allthediscs:item/music_disc",
+        "layer2": "allthediscs:item/volume_beta/volume_beta",
+        "layer1": "allthediscs:item/volume_beta/music_disc_concrete_halls"
+    }
+}
