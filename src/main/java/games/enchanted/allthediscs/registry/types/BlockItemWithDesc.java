@@ -1,7 +1,7 @@
-package net.allthediscs.registry.types;
+package games.enchanted.allthediscs.registry.types;
 
 
-import net.allthediscs.AllTheDiscs;
+import games.enchanted.allthediscs.AllTheDiscs;
 import net.minecraft.block.Block;
 import net.minecraft.client.item.TooltipContext;
 import net.minecraft.item.BlockItem;

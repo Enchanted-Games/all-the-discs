@@ -1,6 +1,6 @@
-package net.allthediscs.registry;
+package games.enchanted.allthediscs.registry;
 
-import net.allthediscs.AllTheDiscs;
+import games.enchanted.allthediscs.AllTheDiscs;
 import net.minecraft.sound.SoundEvent;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;

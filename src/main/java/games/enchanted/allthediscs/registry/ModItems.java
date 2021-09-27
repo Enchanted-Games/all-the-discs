@@ -1,8 +1,8 @@
-package net.allthediscs.registry;
+package games.enchanted.allthediscs.registry;
 
-import net.allthediscs.AllTheDiscs;
-import net.allthediscs.registry.types.BlockItemWithDesc;
-import net.allthediscs.registry.types.CustomDiscItem;
+import games.enchanted.allthediscs.AllTheDiscs;
+import games.enchanted.allthediscs.registry.types.BlockItemWithDesc;
+import games.enchanted.allthediscs.registry.types.CustomDiscItem;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;

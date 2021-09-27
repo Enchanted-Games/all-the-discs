@@ -1,6 +1,6 @@
-package net.allthediscs.registry;
+package games.enchanted.allthediscs.registry;
 
-import net.allthediscs.AllTheDiscs;
+import games.enchanted.allthediscs.AllTheDiscs;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.fabricmc.fabric.api.tool.attribute.v1.FabricToolTags;
 import net.minecraft.block.Block;

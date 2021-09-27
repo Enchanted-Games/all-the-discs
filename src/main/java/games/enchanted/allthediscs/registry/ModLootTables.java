@@ -1,6 +1,6 @@
-package net.allthediscs.registry;
+package games.enchanted.allthediscs.registry;
 
-import net.allthediscs.AllTheDiscs;
+import games.enchanted.allthediscs.AllTheDiscs;
 import net.fabricmc.fabric.api.loot.v1.FabricLootPoolBuilder;
 import net.fabricmc.fabric.api.loot.v1.event.LootTableLoadingCallback;
 import net.minecraft.loot.entry.LootTableEntry;

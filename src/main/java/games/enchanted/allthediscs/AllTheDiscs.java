@@ -1,9 +1,9 @@
-package net.allthediscs;
+package games.enchanted.allthediscs;
 
-import net.allthediscs.registry.ModBlocks;
-import net.allthediscs.registry.ModItems;
-import net.allthediscs.registry.ModLootTables;
-import net.allthediscs.registry.ModSounds;
+import games.enchanted.allthediscs.registry.ModBlocks;
+import games.enchanted.allthediscs.registry.ModItems;
+import games.enchanted.allthediscs.registry.ModLootTables;
+import games.enchanted.allthediscs.registry.ModSounds;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.minecraft.item.ItemGroup;

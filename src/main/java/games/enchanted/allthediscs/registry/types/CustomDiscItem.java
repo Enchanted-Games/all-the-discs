@@ -1,4 +1,4 @@
-package net.allthediscs.registry.types;
+package games.enchanted.allthediscs.registry.types;
 
 import net.minecraft.item.MusicDiscItem;
 import net.minecraft.sound.SoundEvent;
