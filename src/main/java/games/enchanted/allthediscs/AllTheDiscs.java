@@ -27,6 +27,10 @@ public class AllTheDiscs implements ModInitializer{
         new Identifier(MOD_ID, "tab_update_aquatic"),
         () -> new ItemStack(ModItems.MUSIC_DISC_UPDATE_AQUATIC)
     );
+    public static final ItemGroup TAB_CAVES_AND_CLIFFS = FabricItemGroupBuilder.build(
+        new Identifier(MOD_ID, "tab_caves_and_cliffs"),
+        () -> new ItemStack(ModItems.MUSIC_DISC_CAVES_AND_CLIFFS)
+    );
     public static final ItemGroup TAB_EXTRAS = FabricItemGroupBuilder.build(
         new Identifier(MOD_ID, "tab_extras"),
         () -> new ItemStack(ModItems.DISC_CONTAINER)

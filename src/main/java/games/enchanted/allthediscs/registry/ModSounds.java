@@ -70,6 +70,10 @@ public class ModSounds {
     public static final SoundEvent MODSOUND_MUSIC_DISC_AXOLOTL = register("music_disc.uqdate_aquatic.axolotl");
     public static final SoundEvent MODSOUND_MUSIC_DISC_DRAGONFISH = register("music_disc.uqdate_aquatic.dragonfish");
     public static final SoundEvent MODSOUND_MUSIC_DISC_SHUNJI = register("music_disc.uqdate_aquatic.shunji");
+    
+
+    public static final SoundEvent MODSOUND_MUSIC_DISC_STAND_TALL = register("music_disc.caves_and_cliffs.stand_tall");
+    public static final SoundEvent MODSOUND_MUSIC_DISC_LEFT_TO_BLOOM = register("music_disc.caves_and_cliffs.left_to_bloom");
 
 
     // extras

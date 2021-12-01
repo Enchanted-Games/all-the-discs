@@ -289,6 +289,19 @@
         ]
     },
 
+    
+    "music_disc.caves_and_cliffs.stand_tall": {
+        "sounds": [
+            "allthediscs:records/lena_raine/stand_tall"
+        ]
+    },
+    
+    "music_disc.caves_and_cliffs.left_to_bloom": {
+        "sounds": [
+            "allthediscs:records/lena_raine/left_to_bloom"
+        ]
+    },
+
 
     "music_disc.extras.taswell_pitched": {
         "sounds": [

@@ -2,7 +2,8 @@
     "itemGroup.allthediscs.tab_volume_alpha": "C418 - Volume Alpha",
     "itemGroup.allthediscs.tab_volume_beta": "C418 - Volume Beta",
     "itemGroup.allthediscs.tab_update_aquatic": "C418 - Update Aquatic",
-    "itemGroup.allthediscs.tab_extras": "Extras",
+    "itemGroup.allthediscs.tab_caves_and_cliffs": "All the Discs - Caves And Cliffs",
+    "itemGroup.allthediscs.tab_extras": "All the Discs Miscellaneous",
 
     "block.allthediscs.disc_container": "Disc Crate",
     "block.allthediscs.disc_container.desc": "Break this block to get a",
@@ -19,6 +20,10 @@
     "block.allthediscs.disc_container_update_aquatic": "Disc Crate - Update Aquatic",
     "block.allthediscs.disc_container_update_aquatic.desc": "Break this block to get a random",
     "block.allthediscs.disc_container_update_aquatic.desc_2": "Update Aquatic Disc",
+
+    "block.allthediscs.disc_container_caves_and_cliffs": "Disc Crate - Caves And Cliffs",
+    "block.allthediscs.disc_container_caves_and_cliffs.desc": "Break this block to get a random",
+    "block.allthediscs.disc_container_caves_and_cliffs.desc_2": "Caves And Cliffs Disc",
 
     "item.allthediscs.music_disc_volume_alpha": "Volume Alpha",
     "item.allthediscs.music_disc_volume_alpha.desc": "Item used as a tab icon",
@@ -148,6 +153,10 @@
     "item.allthediscs.music_disc_shunji": "Music Disc - Update Aquatic - 3/3",
     "item.allthediscs.music_disc_shunji.desc": "C418 - Shunji",
 
+    "item.allthediscs.music_disc_stand_tall": "Music Disc - Caves And Cliffs - 1/10",
+    "item.allthediscs.music_disc_stand_tall.desc": "Lena Raine - Stand Tall",
+    "item.allthediscs.music_disc_left_to_bloom": "Music Disc - Caves And Cliffs - 2/10",
+    "item.allthediscs.music_disc_left_to_bloom.desc": "Lena Raine - Left to Bloom",
     
     "item.allthediscs.music_disc_taswell_pitched": "Music Disc - Extras",
     "item.allthediscs.music_disc_taswell_pitched.desc": "C418 - Taswell - Pitched and Sped Up ",

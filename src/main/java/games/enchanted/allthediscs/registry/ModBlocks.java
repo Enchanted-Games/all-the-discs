@@ -39,12 +39,20 @@ public class ModBlocks {
         .strength(0.5f, 0.5f)
         .sounds(BlockSoundGroup.WOOD)
     );
+    public static final Block DISC_CONTAINER_CAVES_AND_CLIFFS = new Block(FabricBlockSettings
+        .of(Material.WOOD)
+        .breakByHand(true)
+        .breakByTool(FabricToolTags.AXES)
+        .strength(0.5f, 0.5f)
+        .sounds(BlockSoundGroup.WOOD)
+    );
 
     public static void registerBlocks() {
         Registry.register(Registry.BLOCK, new Identifier(AllTheDiscs.MOD_ID, "disc_container"), DISC_CONTAINER);
         Registry.register(Registry.BLOCK, new Identifier(AllTheDiscs.MOD_ID, "disc_container_volume_alpha"), DISC_CONTAINER_VOLUME_ALPHA);
         Registry.register(Registry.BLOCK, new Identifier(AllTheDiscs.MOD_ID, "disc_container_volume_beta"), DISC_CONTAINER_VOLUME_BETA);
         Registry.register(Registry.BLOCK, new Identifier(AllTheDiscs.MOD_ID, "disc_container_update_aquatic"), DISC_CONTAINER_UPDATE_AQUATIC);
+        Registry.register(Registry.BLOCK, new Identifier(AllTheDiscs.MOD_ID, "disc_container_caves_and_cliffs"), DISC_CONTAINER_CAVES_AND_CLIFFS);
     }
 
 }

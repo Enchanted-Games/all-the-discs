@@ -18,13 +18,14 @@ public class ModItems {
     public static final BlockItem DISC_CONTAINER_VOLUME_ALPHA = new BlockItemWithDesc(ModBlocks.DISC_CONTAINER_VOLUME_ALPHA, new Item.Settings().group(AllTheDiscs.TAB_EXTRAS).rarity(Rarity.RARE), "disc_container_volume_alpha");
     public static final BlockItem DISC_CONTAINER_VOLUME_BETA = new BlockItemWithDesc(ModBlocks.DISC_CONTAINER_VOLUME_BETA, new Item.Settings().group(AllTheDiscs.TAB_EXTRAS).rarity(Rarity.RARE), "disc_container_volume_beta");
     public static final BlockItem DISC_CONTAINER_UPDATE_AQUATIC = new BlockItemWithDesc(ModBlocks.DISC_CONTAINER_UPDATE_AQUATIC, new Item.Settings().group(AllTheDiscs.TAB_EXTRAS).rarity(Rarity.RARE), "disc_container_update_aquatic");
-
+    public static final BlockItem DISC_CONTAINER_CAVES_AND_CLIFFS = new BlockItemWithDesc(ModBlocks.DISC_CONTAINER_CAVES_AND_CLIFFS, new Item.Settings().group(AllTheDiscs.TAB_EXTRAS).rarity(Rarity.RARE), "disc_container_caves_and_cliffs");
 
 
 
     public static final Item MUSIC_DISC_VOLUME_ALPHA = registerDiscCmdsOnly("music_disc_volume_alpha", ModSounds.MODSOUND_MUSIC_DISC_SECRET);
     public static final Item MUSIC_DISC_VOLUME_BETA = registerDiscCmdsOnly("music_disc_volume_beta", ModSounds.MODSOUND_MUSIC_DISC_SECRET);
     public static final Item MUSIC_DISC_UPDATE_AQUATIC = registerDiscCmdsOnly("music_disc_update_aquatic", ModSounds.MODSOUND_MUSIC_DISC_SECRET);
+    public static final Item MUSIC_DISC_CAVES_AND_CLIFFS = registerDiscCmdsOnly("music_disc_caves_and_cliffs", ModSounds.MODSOUND_MUSIC_DISC_SECRET);
     public static final Item MUSIC_DISC_EXTRAS = registerDiscCmdsOnly("music_disc_extras", ModSounds.MODSOUND_MUSIC_DISC_SECRET);
 
     // discs volume alpha
@@ -90,11 +91,14 @@ public class ModItems {
     public static final Item MUSIC_DISC_DRAGONFISH = registerDiscUpdateAquatic("music_disc_dragonfish", ModSounds.MODSOUND_MUSIC_DISC_DRAGONFISH);
     public static final Item MUSIC_DISC_SHUNJI = registerDiscUpdateAquatic("music_disc_shunji", ModSounds.MODSOUND_MUSIC_DISC_SHUNJI);
 
+    // caves and cliffs
+    public static final Item MUSIC_DISC_STAND_TALL = registerDiscCavesAndCliffs("music_disc_stand_tall", ModSounds.MODSOUND_MUSIC_DISC_STAND_TALL);
+    public static final Item MUSIC_DISC_LEFT_TO_BLOOM = registerDiscCavesAndCliffs("music_disc_left_to_bloom", ModSounds.MODSOUND_MUSIC_DISC_LEFT_TO_BLOOM);
+
     // you found unused stuff amazing!
     // public static final Item MUSIC_DISC_TASWELL_PITCHED = registerDiscExtras("music_disc_taswell_pitched", ModSounds.MODSOUND_MUSIC_DISC_TASWELL_PITCHED);
     // public static final Item MUSIC_DISC_WARD_PITCHED = registerDiscExtras("music_disc_ward_pitched", ModSounds.MODSOUND_MUSIC_DISC_WARD_PITCHED);
     // public static final Item MUSIC_DISC_MALL_PITCHED = registerDiscExtras("music_disc_mall_pitched", ModSounds.MODSOUND_MUSIC_DISC_MALL_PITCHED);
-    // no model but work and are translated
 
     public static Item registerDiscVolAlpha(String id, SoundEvent sound) {
         Item.Settings settings = new Item.Settings().rarity(Rarity.RARE).maxCount(1).group(AllTheDiscs.TAB_VOLUME_ALPHA);
@@ -116,11 +120,17 @@ public class ModItems {
         Item.Settings settings = new Item.Settings().rarity(Rarity.EPIC).maxCount(1);
         return Registry.register(Registry.ITEM, new Identifier(AllTheDiscs.MOD_ID, id), new CustomDiscItem(0, sound, settings));
     }
+    
+    public static Item registerDiscCavesAndCliffs(String id, SoundEvent sound) {
+        Item.Settings settings = new Item.Settings().rarity(Rarity.RARE).maxCount(1).group(AllTheDiscs.TAB_CAVES_AND_CLIFFS);
+        return Registry.register(Registry.ITEM, new Identifier(AllTheDiscs.MOD_ID, id), new CustomDiscItem(15, sound, settings));
+    }
 
     public static void registerItems() {
         Registry.register(Registry.ITEM, new Identifier(AllTheDiscs.MOD_ID, "disc_container"), DISC_CONTAINER);
         Registry.register(Registry.ITEM, new Identifier(AllTheDiscs.MOD_ID, "disc_container_volume_alpha"), DISC_CONTAINER_VOLUME_ALPHA);
         Registry.register(Registry.ITEM, new Identifier(AllTheDiscs.MOD_ID, "disc_container_volume_beta"), DISC_CONTAINER_VOLUME_BETA);
         Registry.register(Registry.ITEM, new Identifier(AllTheDiscs.MOD_ID, "disc_container_update_aquatic"), DISC_CONTAINER_UPDATE_AQUATIC);
+        Registry.register(Registry.ITEM, new Identifier(AllTheDiscs.MOD_ID, "disc_container_caves_and_cliffs"), DISC_CONTAINER_CAVES_AND_CLIFFS);
     }
 }
